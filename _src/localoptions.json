@@ -1,0 +1,378 @@
+{
+  "mode": "localoptions",
+  "version": 1,
+  "url": "https://cedar-park-plumbing-company.8-i.net",
+  "business": {
+    "name": "Cedar Park Plumbing Company",
+    "trade": "Plumbing",
+    "street": "1464 E Whitestone Blvd",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "phone": "(512) 986-2512",
+    "email": "sales@cedarparkplumbingcompany.8-i.net",
+    "social": {}
+  },
+  "services": [
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "stance": "noticed",
+      "h1": "Drain Cleaning in Cedar Park, TX",
+      "title": "Drains | Cedar Park Plumbing Company, Cedar Park, TX",
+      "meta": "Cedar Park Plumbing Company clears slow and blocked drains in Cedar Park, TX, Anderson Mill, Brushy Creek, and Jollyville. Call with the fixture and symptoms.",
+      "blurb": "We clear slow, blocked, and gurgling drains across Cedar Park and nearby areas.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "Gurgling from the sink, a sewer smell near the shower, or water rising in a tub can point to a blocked drain. The problem may sit in the trap, the branch line, or farther along the pipe.",
+            "Soap film, grease, hair, wipes, and food scraps can catch inside a pipe. Water then drains slowly, pushes air through another fixture, or returns through a lower opening.",
+            "A slow bathroom sink can sometimes wait for a scheduled visit. A toilet, shower, or floor drain that backs up should not wait, because wastewater can overflow into the room and spread beyond the fixture."
+          ]
+        },
+        {
+          "heading": "Drain gurgling and sewer odor",
+          "paragraphs": [
+            "Customers often report a sink that drains slowly, a shower pan that fills around their feet, or a toilet that bubbles while the washing machine drains. Others notice a sewer odor at the kitchen sink, bathtub, or laundry standpipe.",
+            "Water coming up through a shower drain is different from a single basin that empties slowly. A gurgling toilet can also indicate air moving through a blocked line rather than a fault inside the toilet tank.",
+            "These symptoms can sound alike from the room, but they may come from different blockages in different sections of pipe. Each fault can require different access, tools, and a different charge."
+          ]
+        },
+        {
+          "heading": "Line inspection and cable work",
+          "paragraphs": [
+            "We start at the affected fixture, trap, and visible cleanout. We check water movement, listen for air at nearby fixtures, and note whether the blockage is on one branch or farther down the line.",
+            "We measure the accessible pipe opening and cable travel before selecting a cutter or retrieval head. A straightforward fixture blockage is often cleared during the same visit, and inspection with cable work commonly takes thirty to ninety minutes.",
+            "We can replace a damaged cleanout cap or gasket if the matching part is available. A blockage beyond the accessible line, a collapsed pipe, or camera locating is usually booked as additional work."
+          ]
+        },
+        {
+          "heading": "Cleanout access and pipe material",
+          "paragraphs": [
+            "The cleanout location and pipe material affect the work involved. An outdoor cleanout at ground level gives direct cable access, while a cleanout behind a wall, under a deck, or inside a crawl space takes more preparation.",
+            "Older cast iron, brittle plastic, and corroded cleanout threads need careful handling. A seized cap, damaged thread, or missing access point can change the route we use to reach the blockage.",
+            "The line route also matters. If a pipe needs opening, replacement, or work in a shared building, property approval, sign-off, or an ordered part can add coordination beyond the clearing visit."
+          ]
+        },
+        {
+          "heading": "Cleanout location and fixture",
+          "paragraphs": [
+            "Tell us which room has the slow or backed-up fixture, such as the kitchen sink, shower, tub, or laundry drain. Let us know if another fixture gurgles or rises while that drain is running.",
+            "If you can see a cleanout cap, tell us whether it is outside, in a garage, under a sink, or in a crawl space. Mention whether water is standing in the basin, shower pan, or floor drain now.",
+            "A photo of the pipe opening or cleanout area can help show the access before the visit. Call Cedar Park Plumbing Company at (512) 986-2512 if water is backing up, since standing wastewater can spread from a shower pan or floor drain into the room."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "water-heater-repair",
+      "name": "Water Heater Repair",
+      "stance": "two-jobs",
+      "h1": "Water Heater Repair in Cedar Park, TX",
+      "title": "Heater Repair | Cedar Park Plumbing Company | Cedar Park, TX",
+      "meta": "Cedar Park Plumbing Company repairs water heaters in Cedar Park, TX. We check leaks, burners, elements, valves, tank controls, and no-hot-water faults.",
+      "blurb": "Water heater repairs for no hot water, leaks, rumbling tanks, and faulty valves.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "Water reaching the hallway from a heater is not the same job as a tank that has stopped making hot water. A puddle at the utility-room threshold points to a leak path. Cold water at every fixture points more often to a burner, element, thermostat, or control fault.",
+            "We trace the wet area, check the tank connections, and test the heating components. We handle both a leaking water heater and a heater that is running without producing hot water.",
+            "An active leak, gas smell, or water near electrical connections should not wait. A heater with no hot water but no leak may have less immediate risk, but a failing valve or corroded tank can damage the surrounding floor if left in service."
+          ]
+        },
+        {
+          "heading": "No hot water or rumbling",
+          "paragraphs": [
+            "People call us for no hot water at the shower, a pilot light that will not stay lit, popping or rumbling from the tank, and water dripping from the relief discharge pipe. Other calls involve rusty hot water, a breaker that trips after the heater starts, or a burner that cycles off before the tank heats.",
+            "A rumble can come from sediment at the tank bottom. A relief pipe can drip because of a valve, excess water pressure, or overheating. These faults can sound alike from outside the closet, but the part involved and the repair work are not the same."
+          ]
+        },
+        {
+          "heading": "Tank and burner callout",
+          "paragraphs": [
+            "At the callout, we read the rating plate, inspect the tank jacket and connections, and check the shutoff valve. We test the power supply on electric units or the burner, pilot, vent, and gas controls on gas units. We also measure water pressure and check hot-water temperature at a nearby faucet.",
+            "A basic diagnostic check commonly takes thirty to sixty minutes, depending on access and the fault. Elements, thermostats, relief valves, and accessible fittings can often be replaced during the same visit if the needed part is available. A cracked tank, a seized isolation valve, or a discontinued control may require a separate visit for the ordered part or replacement unit."
+          ]
+        },
+        {
+          "heading": "Tank age, valves, access",
+          "paragraphs": [
+            "Tank age changes the scope of a repair. Corrosion around the drain valve, fittings, or tank seam can make a small leak different from a replaceable valve problem. An older model may also use a control, element, or burner part that must be ordered rather than fitted from common stock.",
+            "Access matters as well. A heater in an open garage is simpler to reach than a unit in a tight closet with a finished wall, platform, or limited drain path. A seized shutoff valve can add work before the heater can be isolated, and local permit or inspection sign-off may apply if the job moves from repair to tank replacement."
+          ]
+        },
+        {
+          "heading": "Model plate and access",
+          "paragraphs": [
+            "Find the model number on the rating plate attached to the tank jacket if it is readable. Note the installation age, or the serial number if the date is not known. Tell us which room holds the heater and whether water is running from the tank, a valve, or the relief pipe. Let us know if the unit sits in a closet, attic, garage, or other restricted space. Call Cedar Park Plumbing Company at (512) 986-2512, especially if water is pooling, because a tank leak can spread into flooring and framing."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "leak-repair",
+      "name": "Leak Repair",
+      "stance": "timing",
+      "h1": "Leak Repair in Cedar Park, TX",
+      "title": "Leak Repair | Cedar Park Plumbing Company | Cedar Park, TX",
+      "meta": "Cedar Park Plumbing Company finds and repairs plumbing leaks in Cedar Park, TX. We check pipes, valves, fixtures, cabinets, walls, and water pressure.",
+      "blurb": "We find and repair leaks in pipes, fixtures, cabinets, walls, and ceilings.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "A drip beneath a sink can soak the cabinet base long before water reaches the floor. After a week, wood panels can swell, fasteners can rust, and a damp trap or supply line can leave a musty odor inside the cabinet.",
+            "A small ceiling spot can spread as water follows framing, insulation, or a pipe route above the room. A leak behind drywall may also raise the water meter reading without leaving a visible puddle.",
+            "We locate the water source before replacing a fitting or opening a wall. Leak repair should not wait where water is actively wetting drywall, flooring, cabinets, or framing, because the damaged area grows beyond the failed pipe or valve."
+          ]
+        },
+        {
+          "heading": "Wet cabinet and ceiling stain",
+          "paragraphs": [
+            "Customers often call about a wet cabinet under the kitchen sink, a brown ceiling stain, a pipe that drips after the faucet is off, or water collecting around a toilet base. Other common signs include a hissing sound in a wall, peeling paint near a shower, and a water meter that moves while every fixture is off.",
+            "A loose supply connection, failed shutoff valve, worn wax seal, pinhole pipe, and leaking fixture can leave similar marks on a floor or wall. We inspect the source because these faults need different parts, access work, and repair plans even when the visible water looks the same."
+          ]
+        },
+        {
+          "heading": "Leak inspection and pressure test",
+          "paragraphs": [
+            "We start with the wet area, nearby fixtures, exposed supply lines, drain connections, shutoff valves, and the water meter. We use a moisture meter to map damp drywall or flooring, then check static water pressure and watch for pressure loss after fixtures are isolated. Residential water pressure is commonly kept between 40 and 80 psi.",
+            "A basic inspection and accessible repair can often be completed in one visit, such as replacing a supply line, valve, trap washer, or pipe fitting. Opening a ceiling, removing cabinet panels, tracing a hidden line, or replacing a section of pipe may take longer. We explain whether a return visit is needed for wall access, drying, or an ordered part."
+          ]
+        },
+        {
+          "heading": "Shutoff valves and wall access",
+          "paragraphs": [
+            "The repair scope changes with the failed part and its age. A leaking compression nut under a sink is different from a corroded pipe joint inside a wall, and older galvanized, copper, CPVC, and PEX lines use different fittings and repair methods.",
+            "Access also affects the work. A working shutoff valve lets us isolate one fixture; a seized valve may require water to be shut off elsewhere and the valve replaced. A fitting behind tile, a cabinet back, or a finished ceiling can require opening and later repair of the surrounding material. Some specialty cartridges, valves, and fixture parts must be ordered if the correct model is not available."
+          ]
+        },
+        {
+          "heading": "Fixture model and pipe access",
+          "paragraphs": [
+            "Tell us which room has the leak and which fixture is involved, such as the kitchen sink, upstairs bathroom, laundry box, or water line behind a refrigerator. If water is running now, note whether it appears only during use or continues after the fixture is off.",
+            "A faucet, toilet, or valve may have a make and model number on its body, underside, trim plate, or installation paperwork. Let us know the approximate age of the fixture and whether the shutoff valve is reachable inside the cabinet or behind an access panel.",
+            "A photo of the wet pipe, valve, or ceiling area can help us identify likely fittings before the visit. Call Cedar Park Plumbing Company at (512) 986-2512 before a wet cabinet, ceiling stain, or wall cavity takes on more water."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "toilet-repair",
+      "name": "Toilet Repair",
+      "stance": "what-it-costs-to-wait",
+      "h1": "Toilet Repair in Cedar Park, TX",
+      "title": "Toilet Repair Cedar Park, TX | Cedar Park Plumbing Company",
+      "meta": "Cedar Park Plumbing Company repairs running, leaking, loose, and weak-flushing toilets in Cedar Park, TX. Call (512) 986-2512 for an inspection.",
+      "blurb": "We repair running, leaking, loose, and weak-flushing toilets in Cedar Park.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "A plunger is the sensible first tool for a slow or blocked toilet. It can clear a paper clog from the bowl trap after a single bad flush. Several firm strokes with water covering the cup can restore the flush.",
+            "A plunger stops helping when the fault sits in the tank, under the bowl, or at the shutoff valve. A worn flapper, faulty fill valve, loose tank bolt, or failed wax ring needs a closer look. A toilet that keeps running, leaks at the base, or threatens to overflow should not wait because water can damage flooring, reach the subfloor, and continue through the meter."
+          ]
+        },
+        {
+          "heading": "Running toilet and floor water",
+          "paragraphs": [
+            "We hear about toilets that run after flushing, refill every few minutes, or make a steady hissing sound from the tank. A bowl that fills too high can point to a fill valve, overflow tube, flapper, or flush valve problem.",
+            "We also check weak flushes, a handle that does nothing, water around the base, and a bowl that rocks against the floor. A sewer smell near the bowl can come from a failed seal, while a damp supply tube may be dripping from its nut or washer.",
+            "These symptoms can look alike from outside the bathroom. We identify the failed part before work starts, since a tank seal, fill valve, wax ring, and shutoff valve each need different parts and labor."
+          ]
+        },
+        {
+          "heading": "Tank and bowl inspection",
+          "paragraphs": [
+            "We start at the shutoff valve, supply tube, tank lid, and bowl base. We run a fill-and-flush cycle, check the water level against the tank marking, and use dye in the tank to find water passing through the flapper.",
+            "We inspect the chain, handle arm, overflow tube, tank bolts, fill valve, and flush valve seat. Most tanks use a 2-inch or 3-inch flush valve, and the correct size matters when we select a flapper or seal. If the refill is slow, we can also check incoming pressure with a gauge.",
+            "A tank and bowl inspection commonly takes 15 to 30 minutes. We can often replace a common flapper, fill valve, handle, supply tube, or tank hardware during the visit. A cracked bowl, seized shutoff valve, concealed tank part, or model-specific flush valve may need parts ordered and another visit."
+          ]
+        },
+        {
+          "heading": "Shutoff valves and access",
+          "paragraphs": [
+            "The age of the tank hardware, the shutoff valve, and the access around the bowl all change the scope of a repair. An exposed tank with a working valve lets us isolate the fixture and focus on the failed component.",
+            "A shutoff valve that has seized can require water isolation before we can safely remove a supply tube or fill valve. A toilet tucked beside a vanity, behind a tight door swing, or under shelving takes more setup than a clear bathroom floor.",
+            "Some older tanks use discontinued handles, proprietary flush valves, or uncommon seals that must be ordered by model. We also flag floor damage, loose closet bolts, or piping changes that may require a separate repair or local sign-off."
+          ]
+        },
+        {
+          "heading": "Tank model and fixture room",
+          "paragraphs": [
+            "Have the toilet’s make and model ready if you can find it. The number is often molded inside the tank beneath the lid, printed on a label behind the bowl, or marked on the underside of the lid.",
+            "Tell us which bathroom has the problem and whether the tank is running, the bowl is leaking, or the toilet is rocking now. Let us know if the shutoff valve turns and whether a vanity, cabinet, or wall limits access to the tank.",
+            "A photo of the tank interior, flush valve, and supply connection can help us bring the right parts. Call Cedar Park Plumbing Company at (512) 986-2512 before a running tank wastes more water or a base leak damages the subfloor."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "faucet-repair",
+      "name": "Faucet Repair",
+      "stance": "who-calls",
+      "h1": "Faucet Repair in Cedar Park, TX",
+      "title": "Faucet Repair | Cedar Park Plumbing Company | Cedar Park, TX",
+      "meta": "Cedar Park Plumbing Company handles faucet repair in Cedar Park, TX, checking drips, weak flow, loose handles, cartridges, and shutoff valves.",
+      "blurb": "We repair dripping, loose, and low-flow faucets in Cedar Park and nearby areas.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "Homeowners, renters, and property managers call us saying, “The faucet keeps dripping,” “the handle is loose,” or “hardly any water comes out.” Those everyday descriptions can point to a worn cartridge, clogged aerator, damaged washer, or failing valve stem.",
+            "We repair kitchen, bathroom, utility-room, and outdoor faucets across Cedar Park, Anderson Mill, Brushy Creek, and Jollyville. We check the fixture, handle, spout, supply tubes, and shutoff valves before choosing a repair.",
+            "We treat a spout that drips but shuts off cleanly as work that can usually wait for a scheduled repair. Water under the sink or a faucet that will not shut off should not wait, because the supply connection or cartridge can keep feeding a cabinet leak."
+          ]
+        },
+        {
+          "heading": "Dripping faucet and weak flow",
+          "paragraphs": [
+            "We see faucets that keep dripping after the handle is off because a cartridge, stem, seat, or washer no longer seals. A puddle at the handle base can instead come from an O-ring or packing seal.",
+            "We trace “low water pressure” at one sink to a blocked aerator, debris in the supply stop, or a restricted cartridge. A handle that turns without changing the water, binds, or wobbles has a different fault in the handle screw, adapter, stem, or cartridge.",
+            "These symptoms can look alike at the counter, but they involve separate parts and separate repair costs. We inspect the fixture before assigning the work."
+          ]
+        },
+        {
+          "heading": "Fixture inspection and cartridge test",
+          "paragraphs": [
+            "During a fixture inspection, we open the hot and cold sides, check handle travel, and inspect the aerator, spout base, supply tubes, and stop valves. We compare flow from each side and check for leakage at the cartridge and connections.",
+            "A basic inspection commonly takes 20 to 30 minutes. Household water pressure is generally kept between 40 and 80 psi; pressure outside that range can affect a faucet, but one weak fixture often has a local blockage.",
+            "We can usually replace a standard cartridge, washer, O-ring, aerator, or supply tube on the same visit if the matching part is available. A discontinued cartridge, specialty finish, concealed valve body, or pipe change may need an ordered part or a return visit."
+          ]
+        },
+        {
+          "heading": "Cartridge age, shutoffs, and access",
+          "paragraphs": [
+            "We consider the fitting’s age because older cartridges and stems may not match current replacements. A recognizable make and an available cartridge keep the repair focused on the fixture, while an obsolete valve body can change the scope.",
+            "We also account for access under the sink. A corroded or seized shutoff valve may need attention before we can isolate water safely, and a crowded cabinet or pedestal base adds removal time.",
+            "We account for a finish-matched handle, ceramic cartridge, or manufacturer-specific part that must be ordered. If repair extends into supply piping or work at a managed property needs approval, we consider the required sign-off before work proceeds."
+          ]
+        },
+        {
+          "heading": "Model number and faucet location",
+          "paragraphs": [
+            "Before calling, check the faucet make and model number on the box, receipt, installation sheet, or manufacturer paperwork if you still have it.",
+            "Tell us which room has the fixture and whether it is a kitchen sink, bathroom sink, tub, shower, utility sink, or outdoor spigot.",
+            "Describe whether water is dripping from the spout, coming from the handle, or running into the cabinet now.",
+            "A photo of the faucet and the space below the sink helps us identify cartridge style and see the shutoff access.",
+            "Note the fitting’s approximate age and any prior handle or cartridge replacement.",
+            "Call Cedar Park Plumbing Company at (512) 986-2512 if water is reaching the cabinet; a wet cabinet base and supply connections can worsen while the faucet waits."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sewer-line-repair",
+      "name": "Sewer Line Repair",
+      "stance": "the-house",
+      "h1": "Sewer Line Repair in Cedar Park, TX",
+      "title": "Sewer Repair | Cedar Park Plumbing Company | Cedar Park, TX",
+      "meta": "Cedar Park Plumbing Company repairs damaged sewer lines in Cedar Park, TX, checking backups, odors, roots, pipe breaks, cleanouts, and access routes.",
+      "blurb": "Sewer line checks and repairs for backups, odors, and wet ground in Cedar Park.",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "In older homes across Cedar Park, Anderson Mill, Brushy Creek, and Jollyville, we check buried sewer pipe where clay, cast iron, or aging plastic joints may have shifted, cracked, or separated. Tree roots can enter an open joint and hold paper and waste inside the line.",
+            "We also inspect newer properties after ground movement, construction debris, or a damaged cleanout cap affects the pipe route from the house. A sewer line can develop a low spot that holds wastewater instead of carrying it away.",
+            "We do not recommend leaving a suspected sewer line fault to wait. A restriction or break can progress from a slow fixture to sewage backing into a bathroom, and a leaking pipe can wash soil away from its route."
+          ]
+        },
+        {
+          "heading": "Sewage odor and backups",
+          "paragraphs": [
+            "Customers call us about a toilet that gurgles while a washing machine empties, a tub that fills with dark water, or a shower drain that bubbles. We also investigate sewage odor outdoors, wet ground near the pipe, and wastewater coming up at a floor drain.",
+            "Those signs can come from roots, a sagging pipe section, a broken joint, or a collapsed line. We inspect the route to separate those faults, because each needs different repair work and can carry a different charge."
+          ]
+        },
+        {
+          "heading": "Sewer camera inspection",
+          "paragraphs": [
+            "At a sewer camera inspection, we start at an accessible cleanout or remove a suitable drain connection only where needed. We note the pipe material and diameter, then feed a camera through the line to find roots, standing water, cracks, offsets, or a collapse.",
+            "Most camera runs take 30 to 60 minutes, depending on line length and access. We use the camera counter to measure the distance to the defect and may mark its surface location before work begins.",
+            "We usually handle an accessible cleanout cap or short exposed pipe section during the visit if materials are available. Excavation, lining, work beneath a slab, or repairs needing utility marking or approval are arranged as separate work."
+          ]
+        },
+        {
+          "heading": "Pipe depth, material, access",
+          "paragraphs": [
+            "The pipe material, its depth, and the route to the break shape the work. PVC at a shallow cleanout has a different repair path from clay or cast iron beneath a driveway, foundation slab, retaining wall, or mature tree.",
+            "Access also matters. A clear side yard gives us room for locating and excavation, while fencing, irrigation, landscaping, or a narrow passage adds preparation and restoration.",
+            "A camera finding that pinpoints one broken joint is more direct than a long section with root damage or a collapse. Ordered fittings, utility locates, permits, and required inspection sign-off can add steps before the final repair."
+          ]
+        },
+        {
+          "heading": "Cleanout cap and pipe age",
+          "paragraphs": [
+            "Before calling, locate the cleanout cap if you can and tell us whether it is in the yard, garage, crawlspace, or near the foundation. Tell us the approximate age of the house and whether you know the pipe is PVC, cast iron, or clay.",
+            "We also need the rooms and fixtures that back up first, plus whether sewage or water is still moving through any drain. Let us know if the camera or excavation route crosses a locked gate, driveway, deck, landscaped bed, or area with a pet.",
+            "Photos of wet ground, a floor drain, or an exposed cleanout can help us plan the inspection. Call Cedar Park Plumbing Company at (512) 986-2512 before a blockage turns into a sewage backup or a break allows more soil to wash away."
+          ]
+        }
+      ]
+    }
+  ],
+  "areas": [
+    "Cedar Park",
+    "Anderson Mill",
+    "Brushy Creek",
+    "Jollyville"
+  ],
+  "hours": [
+    {
+      "day": "Monday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "open": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "open": "Open 24 hours"
+    }
+  ],
+  "alt": {
+    "1": "A plumber kneeling at an open kitchen cabinet, turning a red pipe wrench on the waste pipe under the sink",
+    "2": "A plumber feeding a drain cable into an open sewer cleanout on a front lawn, with a camera reel and an open service van behind him",
+    "3": "A plumber reaching into an open toilet cistern to fit a new fill valve in a tiled bathroom",
+    "4": "A plumber replacing the P-trap under a stainless steel kitchen sink while the tap runs"
+  },
+  "cover": 2,
+  "logo": "assets/logo.png",
+  "structure": "beacon",
+  "imageSet": "set-2",
+  "verification": [],
+  "home": {
+    "sub": "We handle plumbing problems with clear communication at homes and businesses throughout Cedar Park.",
+    "title": "Plumbing | Cedar Park Plumbing Company | Cedar Park, TX",
+    "meta": "Cedar Park Plumbing Company handles plumbing repairs in Cedar Park, TX. Call us to discuss the pipe, fixture, or drain causing trouble at your property.",
+    "aboutHeading": "Plumbing in Cedar Park, TX",
+    "firstBreak": "We are ready to talk through the problem.",
+    "secondBreak": "Tell us what you are seeing at home.",
+    "about": [
+      "A drain can gurgle beneath a sink. Water can pool around a toilet, or a damp spot can spread across a ceiling. A sewer-like smell near a floor drain can also prompt a call.",
+      "Work starts in a bathroom, kitchen, or utility room at a fixture or pipe. The cause may be behind a wall, floor, or line. We inspect the part in Cedar Park, Anderson Mill, Brushy Creek, and Jollyville.",
+      "A pipe with an accessible leak may be repaired if its material remains sound. Replacement may make more sense if corrosion has spread along the pipe or damaged joints. We tell you which route applies before any price is discussed."
+    ]
+  },
+  "now": "2026-11-13T05:14:39.161Z"
+}

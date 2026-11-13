@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cedar-park-plumbing-company.8-i.net/sitemap.xml
